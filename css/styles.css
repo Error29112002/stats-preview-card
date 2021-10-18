@@ -1,0 +1,27 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Font Colors */
+.white-element {
+  color: #ffff;
+}
+
+.para {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.subheading {
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+.main-container {
+  position: relative;
+  background-color: hsl(244, 38%, 16%);
+}
+
+.image-container {
+  float: right;
+}
